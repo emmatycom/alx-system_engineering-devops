@@ -1,2 +1,2 @@
 #!/bin/bash
-Delete the directory my_first_directory that is in the /tmp directory.
+rm -R /tmp/my_first_directory
